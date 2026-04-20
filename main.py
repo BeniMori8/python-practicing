@@ -1,6 +1,6 @@
-from advent_of_code_2023.aoc_23_1.aoc_23_1 import aoc_23_1_task
+from advent_of_code_2023.aoc_23_2.solution import aoc_23_2_task_part2
 
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print("23.1 completed!")
+    print("finished aoc 23.2 !")
